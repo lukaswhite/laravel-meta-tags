@@ -3,7 +3,7 @@
     "description": "Integrates the Meta Tags module with Laravel",
     "type": "library",
     "require": {
-        "laravel/framework": "5.6.*",
+        "laravel/framework": ">5.3",
         "lukaswhite/html-element": "dev-master",
         "lukaswhite/meta-tags": "dev-master"
     },
